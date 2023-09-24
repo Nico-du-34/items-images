@@ -1,0 +1,3 @@
+- qb-inventory/html/images
+- lj-inventory/html/images
+- aj-inventory/html/images
